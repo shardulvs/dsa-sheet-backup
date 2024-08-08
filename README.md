@@ -2,7 +2,7 @@
 
 > Hey there! 🌟 We've noticed that the [Strivers A2Z DSA Course/Sheet website](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) has been down for hours recently, so we’ve created this backup. Here, you’ll find all the awesome DSA questions to keep your practice going smoothly, even if the original site is temporarily unavailable. Happy coding and stay motivated!
 
-## Step 1 : Learn the basics (31 problems)
+## Step 1 : Learn the basics (26 problems)
 
 1. [Problem Link](https://practice.geeksforgeeks.org/problems/search-query-auto-complete/0?category%5B%5D=Strings&category%5B%5D=Strings&problemStatus=unsolved&difficulty%5B%5D=2&page=1&query=category%5B%5DStringsproblemStatusunsolveddifficulty%5B%5D2page1category%5B%5DStr)
 2. [Problem Link](https://bit.ly/3Dqmgvx)
